@@ -4,7 +4,6 @@
 
 * Name: Hồ Tăng Nhật Hiếu
 * Major: Data Science and Artificial Intelligence
-* University: University of Hue - Faculty of Engineering and Technology
 
 ## Project Objective
 
